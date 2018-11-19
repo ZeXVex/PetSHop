@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ZeXVex\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ZeXVex\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_PetSHop.1687455891.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ZeXVex\RiderProjects\PetSHop" t="IncludeFlat">
+      <e p="Core" t="Include" />
+      <e p="Interface" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PetShop.Core" t="IncludeRecursive">
+        <e p="Bin" t="ExcludeRecursive" />
+        <e p="Domain" t="Include">
+          <e p="IOwnerRepository.cs" t="Include" />
+          <e p="IPetRepository.cs" t="Include" />
+          <e p="IUserRepository.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="PetShop.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PetShop.Core.csproj" t="IncludeRecursive" />
+        <e p="Service" t="Include">
+          <e p="Implimentation" t="Include">
+            <e p="OwnerService.cs" t="Include" />
+            <e p="PetService.cs" t="Include" />
+          </e>
+          <e p="IOwnerService.cs" t="Include" />
+          <e p="IPetService.cs" t="Include" />
+          <e p="IUserService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="PetShop.Core.Entity" t="IncludeRecursive">
+        <e p="Bin" t="ExcludeRecursive" />
+        <e p="Filter.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="PetShop.Core.Entity.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Owner.cs" t="Include" />
+        <e p="Pet.cs" t="Include" />
+        <e p="PetShop.Core.Entity.csproj" t="IncludeRecursive" />
+        <e p="User.cs" t="Include" />
+      </e>
+      <e p="PetShop.Interface.Date" t="IncludeRecursive">
+        <e p="Bin" t="ExcludeRecursive" />
+        <e p="DBInitialiser.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="PetShop.Interface.Date.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PetShop.Interface.Date.csproj" t="IncludeRecursive" />
+        <e p="PetShopContext.cs" t="Include" />
+        <e p="SQLRepositories" t="Include">
+          <e p="OwnerRepository.cs" t="Include" />
+          <e p="PetRepository.cs" t="Include" />
+          <e p="UserRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="PetSHop.sln" t="IncludeFlat" />
+      <e p="UI" t="Include" />
+      <e p="WebApplication1" t="IncludeRecursive">
+        <e p="Bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="OwnerController.cs" t="Include" />
+          <e p="PetController.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="WebApplication1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WebApplication1.csproj" t="IncludeRecursive" />
+        <e p="wwwroot" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

@@ -1,0 +1,69 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\ZeXVex\\RiderProjects\\PetSHop\\PetShop.Interface.Date\\PetShop.Interface.Date.csproj",
+    "projectName": "PetShop.Interface.Date",
+    "projectPath": "C:\\Users\\ZeXVex\\RiderProjects\\PetSHop\\PetShop.Interface.Date\\PetShop.Interface.Date.csproj",
+    "outputPath": "C:\\Users\\ZeXVex\\RiderProjects\\PetSHop\\PetShop.Interface.Date\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "C:\\Users\\ZeXVex\\RiderProjects\\PetSHop\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj": {
+            "projectPath": "C:\\Users\\ZeXVex\\RiderProjects\\PetSHop\\PetShop.Core.Entity\\PetShop.Core.Entity.csproj"
+          },
+          "C:\\Users\\ZeXVex\\RiderProjects\\PetSHop\\PetShop.Core\\PetShop.Core.csproj": {
+            "projectPath": "C:\\Users\\ZeXVex\\RiderProjects\\PetSHop\\PetShop.Core\\PetShop.Core.csproj"
+          },
+          "C:\\Users\\ZeXVex\\RiderProjects\\PetSHop\\WebApplication1\\WebApplication1.csproj": {
+            "projectPath": "C:\\Users\\ZeXVex\\RiderProjects\\PetSHop\\WebApplication1\\WebApplication1.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "[2.2.0-preview3-35497, )"
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+          "target": "Package",
+          "version": "[1.1.6, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite": {
+          "target": "Package",
+          "version": "[2.1.3, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+          "target": "Package",
+          "version": "[2.1.4, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
